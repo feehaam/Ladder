@@ -1,0 +1,33 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="08. OOP B\Abstractions\" />
+    <Folder Include="08. OOP B\AbstractClass\" />
+    <Folder Include="08. OOP B\Inheritances\" />
+    <Folder Include="08. OOP B\Interfaces\" />
+    <Folder Include="09. OOP C\ExtentionClass\" />
+    <Folder Include="09. OOP C\LooselyCoupling\" />
+    <Folder Include="09. OOP C\MultipleInheritance\" />
+    <Folder Include="12. Delegates and Event\" />
+    <Folder Include="13. LINQ\" />
+    <Folder Include="14. Threading\" />
+    <Folder Include="15. Generics\" />
+    <Folder Include="16. Attributes and Reflections\" />
+    <Folder Include="17. Asynchronous Programming\" />
+    <Folder Include="18. Design Patterns\Adapter\" />
+    <Folder Include="18. Design Patterns\Chain of responsibility\" />
+    <Folder Include="18. Design Patterns\Factory\" />
+    <Folder Include="18. Design Patterns\Facade\" />
+    <Folder Include="18. Design Patterns\Strategy\" />
+    <Folder Include="18. Design Patterns\Proxy\" />
+    <Folder Include="18. Design Patterns\Singleton\" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\Ladder\Ladder\bin\Debug\Ladder.exe.config
+C:\Users\User\source\repos\Ladder\Ladder\bin\Debug\Ladder.exe
+C:\Users\User\source\repos\Ladder\Ladder\bin\Debug\Ladder.pdb
+C:\Users\User\source\repos\Ladder\Ladder\obj\Debug\Ladder.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\Ladder\Ladder\obj\Debug\Ladder.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\Ladder\Ladder\obj\Debug\Ladder.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Ladder\Ladder\obj\Debug\Ladder.exe
+C:\Users\User\source\repos\Ladder\Ladder\obj\Debug\Ladder.pdb
