@@ -4,10 +4,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Ladder._07._OOP_A
+namespace Ladder._09._OOP_C
 {
-    //Private, Overloading, Static
-    internal class ConstructorVarities
+    internal class ReadOnly
     {
     }
 }

@@ -17,6 +17,11 @@ namespace Maths
             MathClass.Floor(3.5);
             MathClass.Ceil(3.5);
 
+            InstanceAndStatic.StaticMethod();
+            new InstanceAndStatic().InstanceMethod();
+
+            ParameterVarities.Play();
+
             Console.WriteLine("-------------------------------");
         }
     }

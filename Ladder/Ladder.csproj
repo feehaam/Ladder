@@ -10,7 +10,7 @@
   <ItemGroup>
     <Folder Include="08. OOP B\Abstractions\" />
     <Folder Include="08. OOP B\AbstractClass\" />
-    <Folder Include="08. OOP B\Inheritances\" />
+    <Folder Include="08. OOP B\Inheritances\Seal class\" />
     <Folder Include="08. OOP B\Interfaces\" />
     <Folder Include="09. OOP C\ExtentionClass\" />
     <Folder Include="09. OOP C\LooselyCoupling\" />
@@ -28,6 +28,7 @@
     <Folder Include="18. Design Patterns\Strategy\" />
     <Folder Include="18. Design Patterns\Proxy\" />
     <Folder Include="18. Design Patterns\Singleton\" />
+    <Folder Include="19. Lambda and Anonymous\" />
   </ItemGroup>
 
 </Project>
