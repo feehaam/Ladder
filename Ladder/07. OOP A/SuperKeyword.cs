@@ -1,14 +1,18 @@
-﻿
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ladder._07._OOP_A
+﻿namespace OOPA
 {
-    internal class SuperKeyword
+    internal class SuperKeyword : B
     {
+        override internal void SayHi()
+        {
+            base.SayHi();
+            Console.WriteLine("Feeham");
+        }
+    }
+    class B
+    {
+        virtual internal void SayHi()
+        {
+            Console.WriteLine("Hi, ");
+        }
     }
 }

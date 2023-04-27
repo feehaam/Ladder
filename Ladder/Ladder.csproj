@@ -8,10 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="08. OOP B\Abstractions\" />
-    <Folder Include="08. OOP B\AbstractClass\" />
-    <Folder Include="08. OOP B\Inheritances\Seal class\" />
-    <Folder Include="08. OOP B\Interfaces\" />
     <Folder Include="09. OOP C\ExtentionClass\" />
     <Folder Include="09. OOP C\LooselyCoupling\" />
     <Folder Include="09. OOP C\MultipleInheritance\" />

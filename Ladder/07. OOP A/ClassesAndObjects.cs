@@ -1,12 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ladder._07._OOP_A
+﻿namespace OOPA
 {
     internal class ClassesAndObjects
     {
+        public static void Play()
+        {
+            Car car = new Car();
+        }
+    }
+    class Car
+    {
+        public void Fuel()
+        {
+
+        }
+        public void Drive()
+        {
+
+        }
     }
 }

@@ -1,26 +1,12 @@
-﻿
-
-
-
-
-
-
-
-
-
-
-
-
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ladder._07._OOP_A
+﻿namespace OOPA
 {
     internal class ThisKeyword
     {
+        int val = 10;
+        public void Play()
+        {
+            int val = 20;
+            Console.WriteLine("value = {0}, this.value = {1}", val, this.val);
+        }
     }
 }

@@ -1,18 +1,17 @@
-﻿
-
-
-
-
-
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ladder._07._OOP_A
+﻿namespace OOPA
 {
-    internal class MethodOverriding
+    internal class MethodOverriding : A
     {
+        override internal void SayHi()
+        {
+            base.SayHi();
+            Console.WriteLine("Feeham");
+        }
+    }
+    class A { 
+        virtual internal void SayHi()
+        {
+            Console.WriteLine("Hi, ");
+        }
     }
 }
