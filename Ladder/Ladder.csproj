@@ -8,9 +8,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="09. OOP C\ExtentionClass\" />
-    <Folder Include="09. OOP C\LooselyCoupling\" />
-    <Folder Include="09. OOP C\MultipleInheritance\" />
     <Folder Include="12. Delegates and Event\" />
     <Folder Include="13. LINQ\" />
     <Folder Include="14. Threading\" />

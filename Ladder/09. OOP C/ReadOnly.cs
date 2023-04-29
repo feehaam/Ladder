@@ -1,12 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ladder._09._OOP_C
+﻿namespace OOPC
 {
     internal class ReadOnly
     {
+        public static readonly double pi;
+        public static readonly int lightSpeed;
+        static ReadOnly()
+        {
+            pi = Math.PI;
+            lightSpeed = 300000000;
+        }
     }
 }

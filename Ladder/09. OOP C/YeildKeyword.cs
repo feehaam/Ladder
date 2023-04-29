@@ -8,5 +8,6 @@ namespace Ladder._09._OOP_C
 {
     internal class YeildKeyword
     {
+
     }
 }

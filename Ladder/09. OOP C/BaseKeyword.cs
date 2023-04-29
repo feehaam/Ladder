@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ladder._09._OOP_C
+﻿namespace OOPC
 {
-    internal class BaseKeyword
+    internal class BaseKeyword : A
     {
+        public BaseKeyword(int bk) : base(bk) 
+        { 
+
+        }
+    }
+
+    class A
+    {
+        public A(int a) { }
     }
 }

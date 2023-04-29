@@ -1,12 +1,15 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ladder._09._OOP_C.Copying
+﻿namespace OOPC
 {
     internal class Deep
     {
+        public static void Play()
+        {
+            Animal tiger1 = new Animal("Tigher",
+                "It a wild animal and it loves to hunt!",
+                "Deers");
+            Animal tiger2 = tiger1.DeepCopy();
+            Console.WriteLine(tiger1);
+            Console.WriteLine(tiger2);
+        }
     }
 }

@@ -5,6 +5,7 @@ using IO;
 using Arrays;
 using Str;
 using OOPA;
+using OOPC;
 
 MathRun mathRun = new MathRun();
 ConditionRun conRun = new ConditionRun();
@@ -15,4 +16,5 @@ StringRun strRun = new StringRun();
 new MethodOverriding().SayHi();
 new ThisKeyword().Play();
 OperatorOverloading.Play();
+LooselyCouplingRun.Play();
 

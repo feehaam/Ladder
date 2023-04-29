@@ -1,12 +1,11 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Ladder._09._OOP_C
+﻿namespace OOPC
 {
     internal class ThisKeyword
     {
+        string name;
+        public ThisKeyword(string name)
+        {
+            this.name = name;
+        }
     }
 }
