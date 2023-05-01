@@ -10,8 +10,6 @@
   <ItemGroup>
     <Folder Include="12. Delegates and Event\" />
     <Folder Include="13. LINQ\" />
-    <Folder Include="14. Threading\" />
-    <Folder Include="16. Attributes and Reflections\" />
     <Folder Include="17. Asynchronous Programming\" />
     <Folder Include="18. Design Patterns\Adapter\" />
     <Folder Include="18. Design Patterns\Chain of responsibility\" />

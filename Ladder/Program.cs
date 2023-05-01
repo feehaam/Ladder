@@ -10,6 +10,7 @@ using Ladder._09._OOP_C;
 using EnumException;
 using Ladder._11._Collection_Framework;
 using Ladder._15._Generics;
+using Ladder._14._Threading;
 
 //MathRun mathRun = new MathRun();
 //ConditionRun conRun = new ConditionRun();
@@ -33,3 +34,5 @@ using Ladder._15._Generics;
 //Touples.Play();
 //CustomSorts.Play();
 GenericRun.Play();
+ChildThread.Play();
+TripleThread.Play();
