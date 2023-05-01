@@ -8,6 +8,7 @@ using OOPA;
 using OOPC;
 using Ladder._09._OOP_C;
 using EnumException;
+using Ladder._11._Collection_Framework;
 
 MathRun mathRun = new MathRun();
 ConditionRun conRun = new ConditionRun();
@@ -23,3 +24,10 @@ YeildKeyword.Play();
 EnumTest.Play();
 HandlingExceptions.Play();
 CreatingExceptions.Play();
+Lists.Play();
+Stacks.Play();
+Queues.Play();
+PriorityQueues.Play();
+Hashings.Play();
+Touples.Play();
+CustomSorts.Play();
